@@ -1,0 +1,38 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h1{
+    text-align: center;
+}
+
+h2{
+    display: inline;
+    color: #fff;
+}
+
+.card{
+    background-color: #111;
+    padding: 30px;
+    margin: 20px auto;
+    width: 800px;
+    border-radius: 4px;
+}
+
+.informacao{
+    color: #febe01;
+}
+
+p{
+    color: #b2b2b2;
+    
+}
+
+a{
+    display: inline-block; /*foi o que faltou pra ficar bacana*/
+    text-decoration: none;
+    color: #332200;
+    background-color: #febe01;
+    border-radius: 4px;
+    padding: 7px 5px;
+}
